@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " % ",
+    "@*@",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blaze_powder"
+    },
+    "*": {
+      "item": "minecraft:echo_shard"
+    },
+    "%": {
+      "item": "minecraft:nether_wart"
+    },
+    "@": {
+      "item": "minecraft:ghast_tear"
+    }
+  },
+  "result": {
+    "item": "additional_shards:regen_shard"
+  }
+}

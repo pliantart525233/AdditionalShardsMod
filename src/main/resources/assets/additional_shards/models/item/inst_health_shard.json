@@ -1,0 +1,8 @@
+{
+
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "additional_shards:item/inst_health_shard"
+  }
+
+}

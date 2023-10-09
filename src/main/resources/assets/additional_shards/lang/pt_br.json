@@ -1,0 +1,10 @@
+{
+  "item.additional_shards.haste_shard": "Fragmento de pressa",
+  "item.additional_shards.strength_shard": "Fragmento de força",
+  "item.additional_shards.fire_res_shard": "Fragmento de resistência ao fogo",
+  "item.additional_shards.inst_health_shard": "Fragmento de vida instantânea",
+  "item.additional_shards.regen_shard": "Fragmento de regeneração",
+  "item.additional_shards.speed_shard": "Fragmento de velocidade",
+
+  "itemGroup.AdditionalShardsMod": "Mod de Fragmentos Adicionais"
+}

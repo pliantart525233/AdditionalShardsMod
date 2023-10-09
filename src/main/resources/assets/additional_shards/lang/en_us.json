@@ -1,0 +1,10 @@
+{
+  "item.additional_shards.haste_shard": "Haste Shard",
+  "item.additional_shards.strength_shard": "Strength Shard",
+  "item.additional_shards.fire_res_shard": "Fire Resistance Shard",
+  "item.additional_shards.inst_health_shard": "Instant Health Shard",
+  "item.additional_shards.regen_shard": "Regeneration Shard",
+  "item.additional_shards.speed_shard": "Speed Shard",
+
+  "itemGroup.AdditionalShardsMod": "Additional Shards Mod"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " % ",
+    "@*@",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blaze_powder"
+    },
+    "*": {
+      "item": "minecraft:echo_shard"
+    },
+    "%": {
+      "item": "minecraft:nether_wart"
+    },
+    "@": {
+      "item": "minecraft:glistering_melon_slice"
+    }
+  },
+  "result": {
+    "item": "additional_shards:inst_health_shard"
+  }
+}
