@@ -27,7 +27,7 @@ public class SpeedEffectItem extends Item {
             player.addEffect(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 1200, 0));
             player.getCooldowns().addCooldown(this, 20);
             level.playSound((Player)null, player.getX(), player.getY(), player.getZ(),
-                    SoundEvents.AMETHYST_BLOCK_STEP, SoundSource.NEUTRAL, 0.8F, 0.9F / (level.getRandom().nextFloat() * 0.4F + 0.8F));
+                    SoundEvents.AMETHYST_BLOCK_STEP, SoundSource.NEUTRAL, 0.5F, 0.4F / (level.getRandom().nextFloat() * 0.4F + 0.8F));
 
         }
         return super.use(level, player, hand);

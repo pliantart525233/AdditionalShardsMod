@@ -27,7 +27,7 @@ public class instantHealthEffectItem extends Item {
             player.addEffect(new MobEffectInstance(MobEffects.HEAL, 1, 0));
             player.getCooldowns().addCooldown(this, 20);
             level.playSound((Player)null, player.getX(), player.getY(), player.getZ(),
-                    SoundEvents.AMETHYST_BLOCK_PLACE, SoundSource.NEUTRAL, 0.8F, 0.9F / (level.getRandom().nextFloat() * 0.4F + 0.8F));
+                    SoundEvents.AMETHYST_BLOCK_PLACE, SoundSource.NEUTRAL, 0.5F, 0.4F / (level.getRandom().nextFloat() * 0.4F + 0.8F));
 
         }
         return super.use(level, player, hand);
